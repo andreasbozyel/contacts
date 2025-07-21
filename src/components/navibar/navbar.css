@@ -1,0 +1,28 @@
+.logoText {
+    color: #B18645;
+    font-size: 1.2rem;
+    text-shadow: 2px 2px 4px black;
+    font-weight: 700;
+}
+
+.navbarContainer {
+    padding: 0px;
+    height: 60px;
+    background-color: #7273A4;
+    display: flex;
+    align-items: center;
+}
+
+.navbarContainer > ul {
+    display: flex;
+    margin: 0px;
+    list-style: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 5px black;
+}
+
+.navbarContainer > ul > li {
+    margin: 0px 20px;
+}
